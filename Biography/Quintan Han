@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Quintan Han</title>
+		<link rel="stylesheet" href="style.css" type="text/css" />
+	</head>
+	<body>
+		<h1 align="center">Quintan Han</h1>
+	<center> <img src="images/QuinCover.jpg" alt="quintan image" width="400" ></center>
+	<p align="center">Quintan is my little brother. He is 13 years old and click some links to learn more about him!</p>
+	<nav>
+		<a href="food.html">Diet</a>
+		<a href="sports.html">Sports</a>
+		<a href="family.html">Family</a>
+		<a href="life.html">Life</a>
+	</nav>
+	</body>
+</html>

@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: blue;
+    font-family: 'Spectral SC', serif;
+    margin-left: 20px;
+   	border: 6px white;
+}
+
+p    {
+	color: black;
+	background-color: white;
+	font-family: 'Playfair Display', serif;
+	font-size: 120%;
+	border: 5px white; 
+	padding: 20px; 	 
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: blue;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+
+    }
+
+    a:hover, a:active {
+    background-color: lightblue;
+}
